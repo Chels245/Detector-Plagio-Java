@@ -1,27 +1,27 @@
-- Detector de Plagio de Código Fuente mediante Isomorfismo de Grafos
+-Detector de Plagio de Código Fuente mediante Isomorfismo de Grafos
 
 Aplicación de escritorio desarrollada en Java utilizando interfaces gráficas nativas de Swing. El sistema automatiza la detección de copias lógicas y camuflaje estructural en programas independientes mediante la abstracción de Grafos de Flujo de Control (CFG) y el análisis métrico de correspondencia topológica.
 
-- Requisitos Previos
+-Requisitos Previos
 
 Para instalar y ejecutar este proyecto en su entorno local, se requiere disponer de los siguientes componentes:
 * Java Development Kit (JDK): Versión 8 o superior instalado en el sistema operativo.
 * Entorno de Desarrollo (IDE): NetBeans, Eclipse, IntelliJ IDEA o herramientas compatibles con la gestión de proyectos Java Estándar.
 
-- Instalación y Configuración
+-Instalación y Configuración
 
 Siga estos pasos secuenciales para configurar el entorno de ejecución desde este repositorio:
 
-1. Obtención del Código Fuente: 
-   *Haga clic en el botón verde `Code` situado en la parte superior de este repositorio de GitHub. 
+1. Obtención del Código Fuente:
+   *Haga clic en el botón verde `Code` situado en la parte superior de este repositorio de GitHub.
    *Seleccione la opción `Download ZIP` para descargar el árbol de archivos completo, o clone el repositorio directamente utilizando el comando en su terminal Git: `git clone https://github.com/tu-usuario/nombre-de-tu-repositorio.git`.
 
-2. Apertura en el IDE:
+3. Apertura en el IDE:
    * Inicie su Entorno de Desarrollo (IDE).
    * Seleccione la opción `File > Open Project` (Abrir Proyecto).
    * Navegue hasta el directorio local donde descargó y extrajo la carpeta raíz del repositorio y selecciónela. El IDE reconocerá automáticamente la estructura del proyecto.
 
-3. Resolución de Dependencias: El proyecto ha sido desarrollado utilizando de forma exclusiva las librerías nativas de la API estándar de Java (`java.util.*`), por lo cual no requiere la configuración ni descarga de librerías externas o repositorios Maven/Gradle, garantizando una portabilidad inmediata.
+4. Resolución de Dependencias: El proyecto ha sido desarrollado utilizando de forma exclusiva las librerías nativas de la API estándar de Java (`java.util.*`), por lo cual no requiere la configuración ni descarga de librerías externas o repositorios Maven/Gradle, garantizando una portabilidad inmediata.
 
 - Ejecución del Sistema
 
