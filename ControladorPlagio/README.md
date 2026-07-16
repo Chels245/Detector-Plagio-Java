@@ -14,7 +14,7 @@ Siga estos pasos secuenciales para configurar el entorno de ejecución desde est
 
 1. Obtención del Código Fuente:
    *Haga clic en el botón verde `Code` situado en la parte superior de este repositorio de GitHub.
-   *Seleccione la opción `Download ZIP` para descargar el árbol de archivos completo, o clone el repositorio directamente utilizando el comando en su terminal Git: `git clone https://github.com/tu-usuario/nombre-de-tu-repositorio.git`.
+   *Seleccione la opción `Download ZIP` para descargar el árbol de archivos completo, o clone el repositorio directamente utilizando el comando en su terminal Git: https://github.com/Chels245/Detector-Plagio-Java.git.
 
 3. Apertura en el IDE:
    * Inicie su Entorno de Desarrollo (IDE).
