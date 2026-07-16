@@ -1,14 +1,14 @@
--Detector de Plagio de Código Fuente mediante Isomorfismo de Grafos
+- Detector de Plagio de Código Fuente mediante Isomorfismo de Grafos
 
 Aplicación de escritorio desarrollada en Java utilizando interfaces gráficas nativas de Swing. El sistema automatiza la detección de copias lógicas y camuflaje estructural en programas independientes mediante la abstracción de Grafos de Flujo de Control (CFG) y el análisis métrico de correspondencia topológica.
 
--Requisitos Previos
+- Requisitos Previos
 
 Para instalar y ejecutar este proyecto en su entorno local, se requiere disponer de los siguientes componentes:
 * Java Development Kit (JDK): Versión 8 o superior instalado en el sistema operativo.
 * Entorno de Desarrollo (IDE): NetBeans, Eclipse, IntelliJ IDEA o herramientas compatibles con la gestión de proyectos Java Estándar.
 
--Instalación y Configuración
+- Instalación y Configuración
 
 Siga estos pasos secuenciales para configurar el entorno de ejecución desde este repositorio:
 
