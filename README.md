@@ -10,9 +10,9 @@ Java Development Kit (JDK): Versión 8 o superior instalado en el sistema operat
 Entorno de Desarrollo (IDE): NetBeans, Eclipse, IntelliJ IDEA o herramientas compatibles con la gestión de proyectos Java Estándar.
 -Instalación y Configuración
 
-Siga estos pasos secuenciales para configurar el entorno de ejecución desde este repositorio:
+Siga estos pasos para configurar el entorno de ejecución desde este repositorio:
 
-Obtención del Código Fuente: *Haga clic en el botón verde Code situado en la parte superior de este repositorio de GitHub. *Seleccione la opción Download ZIP para descargar el árbol de archivos completo, o clone el repositorio directamente utilizando el comando en su terminal Git: https://github.com/Chels245/Detector-Plagio-Java.git.
+Obtención del Código Fuente: Haga clic en el botón verde 'Code' situado en la parte superior de este repositorio de GitHub. Luego, seleccione la opción 'Download ZIP' para descargar el árbol de archivos completo, o clone el repositorio directamente utilizando el comando en su terminal Git: https://github.com/Chels245/Detector-Plagio-Java.git.
 
 Apertura en el IDE:
 
